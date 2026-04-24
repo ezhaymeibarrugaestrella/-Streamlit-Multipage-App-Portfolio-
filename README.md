@@ -47,6 +47,8 @@ A multipage web application built using **Streamlit (Python)** featuring interac
 2. Install Streamlit:
 
 3. Type this in the terminal: py -m streamlit run 1_🏠_Home.py (press ENTER)
+
+4. OPEN THE SITE IN THIS LINK 👉 { http://localhost:8502/ }
    
 ```bash
 pip install streamlit
